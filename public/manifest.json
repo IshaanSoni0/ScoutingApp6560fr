@@ -1,0 +1,22 @@
+{
+  "name": "FRC Scouting App",
+  "short_name": "FRC Scout",
+  "description": "A Progressive Web App for FRC match scouting",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e40af",
+  "theme_color": "#1e40af",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=192&h=192&fit=crop",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=512&h=512&fit=crop",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}

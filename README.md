@@ -1,0 +1,1 @@
+ScoutingApp6560fr
